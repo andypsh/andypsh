@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <div align="center"> 
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Data_Analysist_Park&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-   <br/>
+
+
 ![andypsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=andypsh&show_icons=true&theme=cobalt)
    <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=likewise95)](https://solved.ac/likewise95)
@@ -65,10 +66,7 @@ Here are some ideas to get you started:
 [![Post Card](https://tistory-readme-stats.vercel.app/api?name=knowallworld&postId=404&description=외교부_인턴일지_MOFA_INTERN)](https://knowallworld.tistory.com/404)
 </div>
 
-### 포트폴리오
-<div>
-https://oil-society-2d3.notion.site/32a8afe8887d4521bc72ba76784844c0
-</div>
+
 
 
 
