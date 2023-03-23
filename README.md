@@ -54,5 +54,7 @@ Here are some ideas to get you started:
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andypsh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Tistory Name Badge](https://tistory-readme-stats.vercel.app/api/badge?name=knowallworld&postId=404)](https://knowallworld.tistory.com/)
+[![Tistory Badge](https://tistory-readme-stats.vercel.app/api/badge?name=성혁블로그)](https://knowallworld.tistory.com/)
+
+[![Post Card](https://tistory-readme-stats.vercel.app/api?name=knowallworld&postId=404&description=외교부_인턴일지_MOFA_INTERN)](https://knowallworld.tistory.com/404)
 </div>
