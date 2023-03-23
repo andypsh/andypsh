@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <div align="center"> 
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Data_Analysist_Park&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![andypsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=andypsh&show_icons=true&theme=cobalt)  
   
 ####  :wave: Welcome my github profile !
 
