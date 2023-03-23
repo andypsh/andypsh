@@ -30,7 +30,7 @@ Here are some ideas to get you started:
  <br/>
  <br/>
   
-####  :clipboard: Once I've Used 
+####  :clipboard: 기술 스택
   
  <br/>
   
@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
 <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white">
+   
+####  :clipboard: 협업  
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=JetBrains&logoColor=white"> 
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
@@ -62,3 +64,14 @@ Here are some ideas to get you started:
    <br/>
 [![Post Card](https://tistory-readme-stats.vercel.app/api?name=knowallworld&postId=404&description=외교부_인턴일지_MOFA_INTERN)](https://knowallworld.tistory.com/404)
 </div>
+
+### 포트폴리오
+<div>
+https://oil-society-2d3.notion.site/32a8afe8887d4521bc72ba76784844c0
+</div>
+
+
+
+
+
+
