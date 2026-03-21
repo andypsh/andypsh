@@ -66,12 +66,11 @@
           <h3>🚀 기타 데이터 분석 프로젝트</h3>
           <p>
             ▪️ 전기차 수요 예측<br/>
-            ▪️ 데이터센터 최적입지 선정
-            ▪️ CJ TENNIS CLUB 대회용 APP 배포(사용자 : 50인)
-               ▪️ https://cj-tennis-open.streamlit.app/
-            ▪️ CJ TENNIS CLUB 교류전용 APP 배포
-               ▪️https://cj-tennis-exchange.streamlit.app/
-            
+            ▪️ 데이터센터 최적입지 선정<br/>
+            ▪️ CJ TENNIS CLUB 대회용 APP 배포 (사용자 : 50인)<br/>
+            &nbsp;&nbsp;&nbsp;▪️ <a href="https://cj-tennis-open.streamlit.app/" target="_blank">https://cj-tennis-open.streamlit.app/</a><br/>
+            ▪️ CJ TENNIS CLUB 교류전용 APP 배포<br/>
+            &nbsp;&nbsp;&nbsp;▪️ <a href="https://cj-tennis-exchange.streamlit.app/" target="_blank">https://cj-tennis-exchange.streamlit.app/</a>
           </p>
         </td>
       </tr>
