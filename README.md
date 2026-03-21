@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Data%20Analyst%20Park&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=35&desc=데이터로%20세상을%20읽는%20분석가,%20박성혁입니다.&descAlignY=75&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Data%20Analyst%20Park&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=35&&descAlignY=75&descAlign=50)
 
 ## 🚀 Welcome to my GitHub! 👋
 
