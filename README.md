@@ -32,20 +32,47 @@
 
 <br/>
 
-#### 💡 Project History
+<h4>💡 Project History</h4>
 
-* **CJ제일제당**
-    * **[DT SOLUTION]** 네이버 쇼핑몰 판매자별 판매가 분석 / 쿠팡 DPS 대응 분석 / 정부지원사업 크롤링 및 알림 서비스 / 사업장 P&L 대시보드
-    * **[AI SOLUTION]** PROMOTION TOOL (자재별 프로모션 수요 예측)
-    * **[DT ANALYTICS]** CIS 클레임 분석
-* **외교부**
-    * 전세계 공관별 업무 현황 파악 및 분석
-    * 머신러닝 모델(XGboost, LightGBM) 활용 예측 모델링 진행
-* **기타 데이터 분석 프로젝트**
-    * 전기차 수요 예측
-    * 데이터센터 최적입지 선정
-
-<br/>
+<div align="left">
+  <table>
+    <tbody>
+      <tr>
+        <td valign="top" width="55%">
+          <h3>🏢 CJ제일제당</h3>
+          <p>
+            <b>[DT SOLUTION]</b><br/>
+            ▪️ 네이버 쇼핑몰 판매자별 판매가 분석<br/>
+            ▪️ 쿠팡 DPS 대응 분석<br/>
+            ▪️ 정부지원사업 크롤링 및 알림 서비스<br/>
+            ▪️ 사업장 P&L 대시보드
+          </p>
+          <p>
+            <b>[AI SOLUTION]</b><br/>
+            ▪️ PROMOTION TOOL (자재별 프로모션 수요 예측)
+          </p>
+          <p>
+            <b>[DT ANALYTICS]</b><br/>
+            ▪️ CIS 클레임 분석
+          </p>
+        </td>
+        <td valign="top" width="45%">
+          <h3>🏛️ 외교부</h3>
+          <p>
+            ▪️ 전세계 공관별 업무 현황 파악 및 분석<br/>
+            ▪️ 머신러닝 모델(XGboost, LightGBM) 활용 예측 모델링 진행
+          </p>
+          <br/>
+          <h3>🚀 기타 데이터 분석 프로젝트</h3>
+          <p>
+            ▪️ 전기차 수요 예측<br/>
+            ▪️ 데이터센터 최적입지 선정
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 <br/>
 
 #### :clipboard: 기술 스택
