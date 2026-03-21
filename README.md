@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Data%20Analyst%20Park&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=데이터로%20세상을%20읽는%20분석가,%20박성혁입니다.&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Data%20Analyst%20Park&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=35&desc=데이터로%20세상을%20읽는%20분석가,%20박성혁입니다.&descAlignY=75&descAlign=50)
 
 ## 🚀 Welcome to my GitHub! 👋
 
@@ -23,12 +23,27 @@
 | 🗓️ 기간 | 🏢 소속 / 활동 | 📝 상세 내용 |
 | :--- | :--- | :--- |
 | **2026.03 ~ 현재** | **고려대학교** | 융합데이터과학대학원 석사 과정 |
-| **2023.07 ~ 현재** | **CJ제일제당** | **Data Analyst** <br/> • **[DT SOLUTION]** 네이버 쇼핑몰 판매자별 판매가 분석 / 쿠팡 DPS 대응 분석 / 정부지원사업 크롤링 및 알림 서비스 / 사업장 P&L 대시보드 <br/> • **[AI SOLUTION]** PROMOTION TOOL (자재별 프로모션 수요 예측) <br/> • **[DT ANALYTICS]** CIS 클레임 분석 |
-| **2022.09 ~ 2023.02** | **외교부** | 데이터 분석 업무 <br/> • 전세계 공관별 업무 현황 파악 및 분석 <br/> • 머신러닝 모델(XGboost, LightGBM) 활용 예측 모델링 진행 |
+| **2023.07 ~ 현재** | **CJ제일제당** | Data Analyst |
+| **2022.09 ~ 2023.02** | **외교부** | 데이터 분석 업무 |
 | **2022.06 ~ 2022.08** | **행정안전부** | 빅데이터 분석 인재 양성 교육 이수 및 수료 |
 | **2021.09 ~ 2021.12** | **고려아연** | IT인프라팀 인턴 근무 |
 | **2016.10 ~ 2018.10** | **대한민국 공군** | 전산장비병 복무 |
 | **2015.03 ~ 2023.07** | **동국대학교** | 정보통신공학과 졸업 |
+
+<br/>
+
+#### 💡 Project History
+
+* **CJ제일제당**
+    * **[DT SOLUTION]** 네이버 쇼핑몰 판매자별 판매가 분석 / 쿠팡 DPS 대응 분석 / 정부지원사업 크롤링 및 알림 서비스 / 사업장 P&L 대시보드
+    * **[AI SOLUTION]** PROMOTION TOOL (자재별 프로모션 수요 예측)
+    * **[DT ANALYTICS]** CIS 클레임 분석
+* **외교부**
+    * 전세계 공관별 업무 현황 파악 및 분석
+    * 머신러닝 모델(XGboost, LightGBM) 활용 예측 모델링 진행
+* **기타 데이터 분석 프로젝트**
+    * 전기차 수요 예측
+    * 데이터센터 최적입지 선정
 
 <br/>
 <br/>
